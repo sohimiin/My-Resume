@@ -14,8 +14,7 @@
 
 [github]:http://github.com/sohimiin
 * profile: [My profile][http]
-
-[http]: (https://sohimiin.github.io/)
+[http]:(https://sohimiin.github.io/)
 
 ```
 헛된 노력도, 버려지는 경험도 없다.
