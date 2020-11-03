@@ -9,4 +9,5 @@
 * 나이: 22
 * 소속: 한림대학교 소프트웨어융합대학
 * 전공: 스마트IoT
-
+* Email: somin9132@naver.com
+* GitHub: github.com/sohimiin
