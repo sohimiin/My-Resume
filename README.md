@@ -13,7 +13,7 @@
 * GitHub: [sohimiin][github]
 
 [github]:http://github.com/sohimiin
-* profile: [My profile]: file:///C:/Users/sohim/OneDrive/Documents/GitHub/sohimiin.github.io/index.html#
+* profile: [My profile] (file:///C:/Users/sohim/OneDrive/Documents/GitHub/sohimiin.github.io/index.html#)
 
 ```
 헛된 노력도, 버려지는 경험도 없다.
